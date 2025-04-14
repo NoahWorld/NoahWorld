@@ -1,7 +1,9 @@
 <!-- Header: 可选，可以使用图片或 Logo 增加品牌感 -->
+
 <p align="center">
-  <img src="URL_TO_YOUR_LOGO_OR_BANNER" alt="NoahWorld Banner" width="800"/>
+  <img src="home.jpg" alt="NoahWorld Banner" width="800"/>
 </p>
+
 
 <h1 align="center">👋 Welcome to NoahWorld</h1>
 
@@ -10,8 +12,8 @@
   <!-- 可选：添加一句 Slogan 或核心理念 -->
   "Code for a better digital world." (示例)
 </p>
-
 <!-- 可选：社交媒体/联系方式徽章 -->
+
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
