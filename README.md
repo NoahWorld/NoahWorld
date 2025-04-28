@@ -8,11 +8,11 @@
 <h1 align="center">👋 Welcome to NoahWorld</h1>
 
 <p align="center">
-  <em>在这里，我们探索、构建并分享关于 [提及核心领域，例如：分布式系统、人工智能、Web 开发] 的知识与实践。</em> <br/>
-  <!-- 可选：添加一句 Slogan 或核心理念 -->
-  "Code for a better digital world." (示例)
+  <em>我可以分享一个更自我的世界，我喜欢的科技、技术、爱好</em> <br/>
+  "Code for a better digital world." 
 </p>
-<!-- 可选：社交媒体/联系方式徽章 -->
+
+
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -26,7 +26,7 @@
 ### 🚀 About Me / 关于 NoahWorld
 
 <!-- 简洁介绍 'NoahWorld' 的身份、技术热情和目标 -->
-*   🧑‍💻 我是/我们是 [你的名字/团队名称]，一位/一个专注于 [主要技术领域1，例如：后端开发] 和 [主要技术领域2，例如：云原生技术] 的 [你的角色，例如：软件工程师/技术团队/开源爱好者]。
+*   🧑‍💻 热爱前端。
 *   💡 热衷于探索 [具体技术方向，例如：微服务架构、机器学习应用、高性能计算] 的前沿实践。
 *   🎯 致力于构建 [目标描述，例如：高效、可扩展且可靠的系统 / 创新的 AI 解决方案 / 有价值的开源项目]。
 *   🌱 目前正在深入研究 [当前学习或探索的技术，见下方“学习方向”]。
